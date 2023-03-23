@@ -4,7 +4,17 @@ body {
 p {
     color: #F5F5FA;
 }
+.h1-homepage {
+    color: #F5F5FA;
+}
 .img-headshot {
     width: 100px;
     border-radius: 10px;
+}
+.div-headshot {
+    display: inline-block;
+    width: 100px;
+}
+.div-bioinfo {
+    display: 300px;
 }
