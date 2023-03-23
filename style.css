@@ -1,0 +1,10 @@
+body {
+    background-color: #1F1F29;
+}
+p {
+    color: #F5F5FA;
+}
+.img-headshot {
+    width: 100px;
+    border-radius: 10px;
+}
