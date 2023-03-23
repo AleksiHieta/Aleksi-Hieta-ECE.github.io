@@ -8,8 +8,13 @@ p {
     color: #F5F5FA;
 }
 .img-headshot {
-    width: 100px;
-    border-radius: 10px;
+    width: 10%;
+    border-radius: 20%;
+}
+.div-header {
+    background-color: #47474b6c;
+    border-style: solid;
+    border
 }
 .div-headshot {
     display: inline-block;
@@ -17,5 +22,5 @@ p {
 }
 .div-bioinfo {
     display: inline-block;
-    width: 300px;
+    width: 60%;
 }
