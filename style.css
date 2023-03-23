@@ -16,5 +16,6 @@ p {
     width: 100px;
 }
 .div-bioinfo {
-    display: 300px;
+    display: inline-block;
+    width: 300px;
 }
