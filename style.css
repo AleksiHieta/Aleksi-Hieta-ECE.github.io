@@ -10,6 +10,7 @@ p {
 .img-headshot {
     width: 10%;
     border-radius: 20%;
+    vertical-align: top;
 }
 .div-header {
     background-color: #47474b6c;
