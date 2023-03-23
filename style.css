@@ -15,11 +15,10 @@ p {
     background-color: #47474b6c;
     border-style: solid;
 }
-.div-headshot {
-    display: inline-block;
-    width: 100px;
+.flex-container {
+    display: flex;
 }
-.div-bioinfo {
-    display: inline-block;
-    flex: 1;
+.flex-container div {
+    height: 150px;
+    flex: 1 1 0%;
 }
