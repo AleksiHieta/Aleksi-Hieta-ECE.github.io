@@ -15,10 +15,23 @@ p {
     background-color: #47474b6c;
     border-style: solid;
 }
-.flex-container {
+.bio-container {
     display: flex;
 }
+.img-headshot {
+    padding-top: 20px;
+}
+.home-bio {
+    color: #F5F5FA;
+    padding-left: 50px;
+}
 .flex-container div {
-    height: 150px;
-    flex: 1 1 0%;
+    flex-direction: row;
+}
+.link-container {
+    display: flex;
+}
+.div-links {
+    width: 350px;
+    font-size: 30px;
 }
