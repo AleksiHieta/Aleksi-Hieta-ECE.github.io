@@ -95,6 +95,10 @@ p {
     display: flex;
 }
 
+.img-mu {
+    max-width: 100%;
+}
+
 .img-headshot {
     display: block;
     margin-left: auto;
