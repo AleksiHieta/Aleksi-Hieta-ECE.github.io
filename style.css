@@ -97,6 +97,7 @@ p {
 
 .img-mu {
     max-width: 100%;
+    margin: auto;
 }
 
 .img-headshot {
